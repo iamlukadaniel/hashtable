@@ -1,0 +1,11 @@
+# ninja log v5
+20	436	7090715312632017	CMakeFiles/4_hashtable.dir/node.c.obj	8823d62826e3db9c
+0	400	7090804441722914	CMakeFiles/4_hashtable.dir/adler32.c.obj	8ceab314667e6695
+7	450	7090715312774619	CMakeFiles/4_hashtable.dir/hashtable.c.obj	133df348601cd2d7
+1	329	7090808917260428	CMakeFiles/4_hashtable.dir/main.c.obj	adeb0533448dba85
+329	604	7090808918953962	4_hashtable.exe	75558d34b1e5e1cd
+7	290	7090810465463908	CMakeFiles/4_hashtable.dir/djb2.c.obj	226429363fe89011
+0	311	7090810465674456	CMakeFiles/4_hashtable.dir/hashtable.c.obj	133df348601cd2d7
+312	669	7090810468576038	4_hashtable.exe	9573b5f0bf85491b
+0	312	7090811080654960	CMakeFiles/4_hashtable.dir/hashtable.c.obj	133df348601cd2d7
+313	554	7090811082293218	4_hashtable.exe	9573b5f0bf85491b
